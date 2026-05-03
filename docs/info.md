@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This was created using VGA playground, as was based off the template for checkers. This was done during a workshop at latchup
 
 ## How to test
 
-Explain how to use your project
+There is the test.py in the test folder 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+VGA display
